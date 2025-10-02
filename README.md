@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
 
-<!--
-**amkh3780/amkh3780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps engineer passionate about cloud‑native technologies, automation, and observability. My focus areas include Kubernetes, CI/CD pipelines, and infrastructure as code.
 
-Here are some ideas to get you started:
+#### Current projects
+- Building a production‑ready single‑node **K3s** starter kit with secure defaults and Helm/Kustomize templates.
+- Deploying an **observability stack** using Prometheus, Grafana, Loki, and Tempo with pre‑built dashboards.
+- Creating reusable **CI/CD templates** for Node.js and Kubernetes applications using GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills & Tools
+- Kubernetes • Helm • Terraform • Docker • GitHub Actions • Prometheus • Grafana • Loki • Linux • Python • Go • Node.js • TypeScript • Rust
+- CI/CD automation • Observability • Infrastructure as Code • Containerization
+
+#### What's next?
+I'm working on publishing more tutorials, starter kits, and tools. Follow my profile to stay updated and feel free to reach out for collaboration or questions.
