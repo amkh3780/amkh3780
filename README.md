@@ -1,15 +1,36 @@
-## Welcome to my GitHub profile 👋
+## 👋 Welcome to my GitHub
 
-I'm a DevOps engineer passionate about cloud‑native technologies, automation, and observability. My focus areas include Kubernetes, CI/CD pipelines, and infrastructure as code.
+🚀 **DevOps Engineer | Cloud-Native Architect | Automation & Observability Enthusiast**
 
-#### Current projects
-- Building a production‑ready single‑node **K3s** starter kit with secure defaults and Helm/Kustomize templates.
-- Deploying an **observability stack** using Prometheus, Grafana, Loki, and Tempo with pre‑built dashboards.
-- Creating reusable **CI/CD templates** for Node.js and Kubernetes applications using GitHub Actions.
+I design and build **production-grade cloud-native platforms** with a strong focus on **Kubernetes, GitOps, CI/CD automation, and observability**.  
+My goal is to create systems that are **secure by default**, **easy to operate**, and **ready to scale**.
 
-#### Skills & Tools
-- Kubernetes • Helm • Terraform • Docker • GitHub Actions • Prometheus • Grafana • Loki • Linux • Python • Go • Node.js • TypeScript • Rust
-- CI/CD automation • Observability • Infrastructure as Code • Containerization
+---
 
-#### What's next?
-I'm working on publishing more tutorials, starter kits, and tools. Follow my profile to stay updated and feel free to reach out for collaboration or questions.
+### 🔥 What I’m working on
+- 🧩 Building a **production-ready single-node K3s starter kit** with secure defaults and reusable **Helm & Kustomize** templates  
+- 📊 Deploying a full **observability stack** using **Prometheus, Grafana, Loki, and Tempo** with pre-built dashboards  
+- 🔁 Creating reusable **CI/CD pipelines & templates** for **Node.js and Kubernetes** workloads using **GitHub Actions**
+
+---
+
+### 🧰 Core Skills & Tooling
+- ☸️ **Kubernetes (K3s)** · Helm · GitOps  
+- 🔧 **CI/CD** · GitHub Actions · Containerization  
+- 🏗️ **Infrastructure as Code** · Terraform  
+- 📈 **Observability** · Prometheus · Grafana · Loki · Tempo  
+- 🐧 Linux · Networking · Cloud-native systems  
+
+> Languages used where needed: Python · Go · Node.js · TypeScript · Rust
+
+---
+
+### 🧠 What’s next?
+- 📦 Publishing **DevOps reference architectures**
+- 📚 Writing practical **tutorials & starter kits**
+- 🛠️ Sharing real-world patterns for **secure and observable platforms**
+
+---
+
+### 🤝 Let’s connect
+If you’re interested in **DevOps collaboration, consulting, or challenging infrastructure problems**, feel free to reach out or follow my work here on GitHub.
